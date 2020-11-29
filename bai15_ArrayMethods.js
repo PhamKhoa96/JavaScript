@@ -21,3 +21,10 @@
 
  a.pop();
  console.log(a);
+
+ a.shift();
+ console.log(a);
+
+ a.unshift(9);
+ console.log(a);
+
